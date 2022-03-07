@@ -33,3 +33,11 @@ Below demo demonstrates the flow of both the shop, and the rider app.
 
 4. Shop app post order processing: 
 <img src="https://github.com/malikshairali/shop-deliveryservices-android/blob/master/Shop%20App%20-%20Side%20Screens.gif" height="450" />
+
+## Shortcomings/Improvements
+
+- Code needs to be cleaned: 
+  - Remove unused or automatically generated code
+  - Use of string resources instead of hard coded strings
+  - Revise public/private keys as part of security
+- Commits' comments are meaningless and just show the progress, some better wordings could have used. 
